@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import project from './Projects/project';
+import Project from './Projects/project';
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Project/>
   </React.StrictMode>,
   document.getElementById('root')
 );
