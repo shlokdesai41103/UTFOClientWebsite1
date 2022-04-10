@@ -1,4 +1,5 @@
-import React, {Component} from 'react'
+import React, {Component} from 'react';
+import './contact_styl.css';
 import Contact from './UI';
 
 class Contacts extends Component{

@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/annieli/Documents/GitHub/UTFOClientWebsite1/contact/node_modules/core-util-is",
+      "environment": [],
+      "program": "/Users/annieli/Documents/GitHub/UTFOClientWebsite1/contact/node_modules/core-util-is/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
